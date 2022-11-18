@@ -1,0 +1,19 @@
+{
+  "ArchivoJson": [
+    {
+      "nombre": "Documento.xls",
+      "tipo": "Excel",
+      "peso": "12 Kb"
+    },    
+    {
+      "nombre": "Documento.docx",
+      "tipo": "Word",
+      "peso": "65 Kb"
+    },    
+    {
+      "nombre": "Documento.pptx",
+      "tipo": "PowerPoint",
+      "peso": "25 Kb"
+    }
+  ]
+}
